@@ -14,7 +14,7 @@
 
 ## Demo
 <!-- link to new tab -->
-<a href="https://medtrack.seanwesleysmith.com" target="_blank">https://medtrack.seanwesleysmith.com</a>
+<a href="https://medications.pages.dev/" target="_blank">https://medications.pages.dev/</a>
 
 ## Tech Stack
 
