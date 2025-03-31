@@ -13,8 +13,8 @@
 - 💅 Modern and responsive UI built with Tailwind CSS and Lucide icons
 
 ## Demo
-
-https://medications.pages.dev/
+<!-- link to new tab -->
+<a href="https://medtrack.seanwesleysmith.com" target="_blank">https://medtrack.seanwesleysmith.com</a>
 
 ## Tech Stack
 
