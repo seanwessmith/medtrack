@@ -2,7 +2,7 @@
 
 **MedTrack** is a React-based web application for tracking patient medications and identifying potential drug interactions using a searchable drug database and interaction dataset.
 
-![MedTrack Screenshot](https://github.com/seanwessmith/medtrack/screenshot.png)
+![MedTrack Screenshot](https://github.com/seanwessmith/medtrack/blob/main/screenshot.png)
 
 ## Features
 
